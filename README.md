@@ -19,7 +19,7 @@
   - **图论.md** – 介绍图论基础、拓扑排序和树上算法等，约 1600 行[raw.githubusercontent.com](https://raw.githubusercontent.com/JyChen-cv/ICPC-TrainingRecords/main/知识整理与总结_副本/图论.md#:~:text=图论)；
   - **动态规划.md** – 讲解动态规划思路、优化技巧和背包模型，约 690 行[raw.githubusercontent.com](https://raw.githubusercontent.com/JyChen-cv/ICPC-TrainingRecords/main/知识整理与总结_副本/动态规划.md#:~:text=动态规划)；
   - 其他文档如 “动态规划基础_副本.md”“状态压缩 DP _副本.md”“观察角度.md”“计算几何.md”“Codeforces 好题整理.md”等，也提供特定算法或题型的总结。
-- **代码文件**：分布在各个训练目录下。以 **2023 暑假训练** 为例，仅 Codeforces 子目录就有近 20 个（#809div2 到 #920div3）[github.com](https://github.com/JyChen-cv/ICPC-TrainingRecords/tree/main/训练代码合集_副本/2023暑假训练#:~:text=* )。每个子目录一般包含数个 C++/Python 源文件和对应的题解，总计可能超过百个代码文件。虽然无法逐一统计，但从目录深度和覆盖的竞赛数量可见作者在竞赛实战方面投入了大量时间。
+- **代码文件**：分布在各个训练目录下。以 **2023 暑假训练** 为例，仅 Codeforces 子目录就有近 20 个（#809div2 到 #920div3）[github.com](https://github.com/JyChen-cv/ICPC-TrainingRecords/tree/main/训练代码合集_副本/2023暑假训练#:~:text=* )。每个子目录一般包含数个 C++/Python 源文件和对应的题解，总计可能超过百个代码文件。总代码行数为==73686==
 - **PDF/PPT 文件**：笔记之外，仓库还包含若干教程或训练资料的 PDF 和 PPT 文件，例如 “sstream.pdf”、“string.pdf”“算法提高课.pdf”“DP 疑难杂题” 下的练习 PDF 等[api.github.com](https://api.github.com/repos/JyChen-cv/ICPC-TrainingRecords/git/trees/main#:~:text="path"%3A "知识整理与总结_副本%2FDP疑难杂题%2F1054 拔萝卜！！！ ,2b6acb08d3d2239e5ae4b021ec4662a7a3c7aa68)。“训练代码合集_副本/2023 寒假训练” 中还有 “Dp原理.pptx” 等课件[github.com](https://github.com/JyChen-cv/ICPC-TrainingRecords/tree/main/训练代码合集_副本/2023寒假训练#:~:text=)。
 - **表格文件**：如 “统计.xlsx”“寒假计划表.xlsx” 用于记录训练计划或成绩。
 
