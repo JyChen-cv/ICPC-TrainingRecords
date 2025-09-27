@@ -1,0 +1,23 @@
+[
+	{
+		"correct_answers":
+		[
+			"2\n1\n3\n0"
+		],
+		"test": "4\n21 10\njingicpcnanjingsuanan\n21 0\njingicpcnanjingsuanan\n21 3\nnanjingnanjingnanjing\n4 100\nicpc\n"
+	},
+	{
+		"correct_answers":
+		[
+			"0\n0\n0\n1\n1"
+		],
+		"test": "5\n1 1\njingnan\n1 2\njingnan\n1 3\njingnan\n1 4\njingnan\n1 5\njingnan\n"
+	},
+	{
+		"correct_answers":
+		[
+			"1"
+		],
+		"test": "1\n1 4\njing1231nan\n"
+	}
+]

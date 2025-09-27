@@ -1,0 +1,16 @@
+[
+	{
+		"correct_answers":
+		[
+			"0011\n111\n0101010110"
+		],
+		"test": "10 3\nBAABABABBA\n1 8 0001\n3 5 110\n6 10 0101010101\n"
+	},
+	{
+		"correct_answers":
+		[
+			"011"
+		],
+		"test": "5 1\nABABB\n1 4 101\n"
+	}
+]
